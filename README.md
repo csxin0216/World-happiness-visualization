@@ -1,5 +1,5 @@
 # World-happiness-visualization
-使用 D3.js，参考 https://www.gapminder.org/fw/world-health-chart/ 实现的动态可交互bubble图.<br>
+使用 D3.js，参考 https://www.gapminder.org/fw/world-health-chart/ 的设计思路，实现的动态可交互bubble图.<br>
 
 # How to run it:
 1.Unzip the folder and open the folder in VSCode<br>
